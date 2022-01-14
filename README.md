@@ -13,7 +13,7 @@ Agora, vamos ao que interessa:
        alt="Gmail"
        target="blank"
     />
-    <img src="https://img.shields.io/badge/-Gmail-28A745?style=plastic&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white" />
 </p>
 
 <p>
