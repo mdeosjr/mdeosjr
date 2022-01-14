@@ -1,4 +1,4 @@
-<h3>Olá mundo, Moises aqui! :D (perfil em construção)</h3>
+<h3>Olá mundo, Moises aqui!</h3>
 
 <p>
 Me chamo Moises Junior, atualmente sou estudante de Desenvolvimento Web Full Stack pela Driven Education, onde somos desafiados com projetos toda semana, e você pode encontrar eles nos repositórios abaixo. Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ.
