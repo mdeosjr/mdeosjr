@@ -7,8 +7,8 @@ Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo qu
 Agora, vamos ao que interessa:
 </p>
 
+Contatos:
 <p>
-    Contatos:
     <a href="mailto:m.junior@eq.ufrj.br" 
        alt="Gmail"
        target="blank"
