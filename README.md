@@ -12,9 +12,10 @@ Linguagens e ferramentas:
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/AJAX-white?style=plastic&logo=AJAX&logoColor=blue">
-    <img src="https://img.shields.io/badge/React-black?style=plastic&logo=React&logoColor=9cf">
-    <img src="https://img.shields.io/badge/SAAS-white?style=plastic&logo=styled-components&logoColor=DB7093">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/SAAS-EF2D5E?style=plastic&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
 </p>
 
 Contatos:
@@ -28,6 +29,6 @@ Contatos:
        alt="LinkedIn"
        target="blank"
     />
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white" />
 </p>
 
