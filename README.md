@@ -14,7 +14,7 @@ Linguagens e ferramentas:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/AJAX-white?style=plastic&logo=AJAX&logoColor=blue">
     <img src="https://img.shields.io/badge/React-black?style=plastic&logo=React&logoColor=9cf">
-    <img src="https://img.shields.io/badge/SAAS-lightgrey?style=plastic&logo=styled-components&logoColor=DB7093">
+    <img src="https://img.shields.io/badge/SAAS-white?style=plastic&logo=styled-components&logoColor=DB7093">
 </p>
 
 Contatos:
