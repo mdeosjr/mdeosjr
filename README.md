@@ -7,7 +7,7 @@ Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo qu
 Agora, vamos ao que interessa...
 </p>
 
-Linguagens e ferramentas:
+Linguagens:
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
@@ -16,6 +16,13 @@ Linguagens e ferramentas:
     <img src="https://img.shields.io/badge/SAAS-EF2D5E?style=plastic&logo=styled-components&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+</p>
+
+Ferramentas:
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
 </p>
 
 Contatos:
