@@ -23,5 +23,10 @@ Contatos:
        target="blank"
     />
     <img src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white" />
+    <a href="https://www.linkedin.com/in/moises-santos-357b4a212/" 
+       alt="LinkedIn"
+       target="blank"
+    />
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=plastic&logo=LinkedIn&logoColor=white" />
 </p>
 
