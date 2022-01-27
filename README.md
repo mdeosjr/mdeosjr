@@ -27,6 +27,6 @@ Contatos:
        alt="LinkedIn"
        target="blank"
     />
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=plastic&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white" />
 </p>
 
