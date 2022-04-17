@@ -16,6 +16,7 @@ Linguagens:
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white">
 </p>
 
 Ferramentas:
