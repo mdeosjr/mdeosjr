@@ -13,6 +13,7 @@ Linguagens:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styled-components&logoColor=white">
+    </br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
