@@ -12,11 +12,12 @@ Linguagens:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/SAAS-EF2D5E?style=plastic&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styled-components&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white">
 </p>
 
 Ferramentas:
@@ -24,6 +25,7 @@ Ferramentas:
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
 </p>
 
 Contatos:
