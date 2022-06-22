@@ -33,11 +33,12 @@ Back-end/Bancos de dados e ORM:
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white">
 </p>
 
-Deploy: 
+Deploy e outros: 
 <p>
     <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
 </p>
 
 Testes:
