@@ -2,7 +2,7 @@
 
 <p>
 Me chamo Moises Junior, sou desenvolvedor web full-stack formado pela Driven Education, onde pude aprender e desenvolver projetos, inclusive alguns exponho aqui no repositório abaixo.
-Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ. Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer!!!”
+Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ. Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer!!!
 </p>
 
 Linguagens:
@@ -23,9 +23,14 @@ Linguagens:
 Ferramentas:
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white">
+</p>
+
+Sistema: 
+<p>
+    <img src="https://img.shields.io/badge/Linux (Ubuntu)-E95420?style=plastic&logo=Ubuntu&logoColor=white">
 </p>
 
 Contatos:
