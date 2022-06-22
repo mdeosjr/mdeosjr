@@ -1,9 +1,8 @@
 <h3>Olá mundo, Moises aqui!</h3>
 
 <p>
-Me chamo Moises Junior, desenvolvedor web full-stack formado pela Driven Education, onde fomos desafiados com projetos toda semana, e você pode encontrar eles nos repositórios abaixo. Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ.
-Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer.
-
+Me chamo Moises Junior, sou desenvolvedor web full-stack formado pela Driven Education, onde pude aprender e desenvolver projetos, inclusive alguns exponho aqui no repositório abaixo.
+Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ. Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer!!!”
 </p>
 
 Linguagens:
