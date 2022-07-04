@@ -76,3 +76,9 @@ Contatos:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white" />
 </p>
 
+Stats:
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=mdeosjr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeosjr" />
+</div>
+
