@@ -1,10 +1,7 @@
-<h3>Olá mundo, Moises aqui!</h3>
+## 💫 About Me:
+Olá mundo!<br><br>Me chamo Moises Junior, sou desenvolvedor web full-stack formado pela Driven Education, onde pude aprender e desenvolver projetos individuais e em grupo - utilizando Scrum como metodologia ágil. Inclusive alguns exponho aqui nos repositórios abaixo.<br>Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ. Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer!<br>
 
-<p>
-Me chamo Moises Junior, sou desenvolvedor web full-stack formado pela Driven Education, onde pude aprender e desenvolver projetos individuais e em grupo - utilizando Scrum como metodologia ágil. Inclusive alguns exponho aqui nos repositórios abaixo.
-Ah, também sou estudante de Engenharia de Bioprocessos na UFRJ. Sempre fui apaixonado por tecnologia e agora tenho certeza que encontrei algo que amo fazer!
-</p>
-
+## 💻 Tech Stack:
 Linguagens:
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
@@ -62,7 +59,7 @@ Sistema:
     <img src="https://img.shields.io/badge/Linux (Ubuntu)-E95420?style=plastic&logo=Ubuntu&logoColor=white">
 </p>
 
-Contatos:
+## 🌐 Socials:
 <p>
     <a href="mailto:mdeosjr@gmail.com" 
        alt="Gmail"
@@ -76,9 +73,8 @@ Contatos:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white" />
 </p>
 
-Stats:
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mdeosjr" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeosjr" />
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdeosjr&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdeosjr&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeosjr&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
