@@ -13,21 +13,33 @@ Linguagens:
 Front-end:
 <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white">
-    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styled-components&logoColor=white">
-    <img src="https://img.shields.io/badge/Material UI-007FFF?style=plastic&logo=MUI&logoColor=white">
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=plastic&logo=vite&logoColor=FFD62E">
+    <a href="https://reactrouter.com/en/main">
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white">
+    </a>
+    <a href="https://styled-components.com/">
+        <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styled-components&logoColor=white">
+    </a>
+    <a href="https://mui.com/pt/">
+        <img src="https://img.shields.io/badge/Material UI-007FFF?style=plastic&logo=MUI&logoColor=white">
+    </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://img.shields.io/badge/Vite-B73BFE?style=plastic&logo=vite&logoColor=FFD62E">
+    </a>
 </p>
 
 Back-end/Bancos de dados e ORM:
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white">
+    <a href="https://jwt.io/">
+        <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white">
+    </a>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white">
+    <a href="https://www.prisma.io/docs/">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white">
+    </a>
 </p>
 
 Deploy e outros: 
