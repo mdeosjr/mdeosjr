@@ -31,9 +31,8 @@ Back-end/Bancos de dados e ORM:
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white">
-    <a href="https://jwt.io/">
-        <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white">
-    </a>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white">
+    <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=plastic&logo=apollographql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
@@ -87,6 +86,6 @@ Sistema:
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdeosjr&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdeosjr&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdeosjr&theme=highcontrast&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeosjr&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
